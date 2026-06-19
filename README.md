@@ -33,7 +33,7 @@ DreamSense is an AI-based system that analyzes EEG signals during sleep to inter
 - NumPy, Pandas  
 - MNE-Python  
 - Matplotlib / Seaborn  
-- Scikit-learn (planned)  
+- Scikit-learn  
 
 ---
 
